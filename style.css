@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body{
+    background-color: gray;
+    background-image: url(images/IMG_8760.jpeg);
+    background-size: cover;
+}
+
+#wrap{
+    width: 960px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+header{
+    padding: 40px;
+    height: 80px;
+    background-image: url("images/pattern.png");
+    background-repeat: repeat;
+}
+
+nav{
+    padding: 8px 40px;
+    background-color: #ffd700;
+    color: #000000;
+}
+
+main{
+    padding: 40px;
+    height: 400px;
+}
+
+footer{
+    padding: 40px;
+    height: 40px;
+    background-color: #ffd700;
+    color: #000000;
+    background-image: url("images/logo.png");
+    background-repeat: repeat;
+    background-size: 200px 50px;
+    background-position: center;
+}
